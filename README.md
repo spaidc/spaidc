@@ -1,4 +1,4 @@
-# Hi there, I'm Anh Tu'! 👋
+# Hi there, I'm Anh Tu' (You can also call me Ryan)! 👋
 
 I am a university student currently majoring in **Management Information Systems** at **Vietnam National University (VNU)**. My journey lies at the intersection of systems, data, and intelligence.
 
