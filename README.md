@@ -8,10 +8,10 @@ Currently, I am focusing on becoming a **Data Engineer**, building robust pipeli
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **building a POS system database.**
-- 🌱 I’m currently learning **Apache Spark, Airflow, Java, Gitlab.**
+- 🔭 I’m currently working on **building a Supermarket Management System**
+- 🌱 I’m currently learning **PostgreSQL, React, NodeJS**
 - 👯 I’m looking to collaborate on **Open Source Data Engineering projects or AI Research.**
-- 💬 Ask me about **Python,SQL,Pytorch,TensorFlow**
+- 💬 Ask me about **Python,SQL,Pytorch,TensorFlow,Deep Learning**
 - 📫 How to reach me: **gianganhtu3212@gmail.com**
 
 ---
